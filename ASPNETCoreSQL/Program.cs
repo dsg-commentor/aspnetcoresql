@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
-namespace ASP.NET_Core_SQL
+namespace ASPNETCoreSQL
 {
     public class Program
     {
